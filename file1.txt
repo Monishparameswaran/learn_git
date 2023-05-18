@@ -10,7 +10,9 @@
 "world is beautiful"
 "water falls are likely to  be its heavenly blossom/"
 
+<<<<<<< HEAD
 
 my friend name is jagan
-
 my friend name is giridharan
+
+"to test squash"
