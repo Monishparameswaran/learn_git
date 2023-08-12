@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello monish
 "hello dhakshin" 
-"monish is good "
+"monish is goo
+
+d "
+=======
+>>>>>>> parent of 623bc77 (added hello monish)
